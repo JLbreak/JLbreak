@@ -78,5 +78,4 @@ I enjoy working on creative ideas and improving step-by-step.
 
 ---
 
-If you want, I can also add a **GitHub stats section** (languages + streak) without making it look messy.
 
