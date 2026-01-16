@@ -1,13 +1,3 @@
-Your README looks good 👍
-Just fix these **small mistakes** (your links are correct, only the display text is wrong):
-
-✅ GitHub link text should show your real username
-✅ Email should show your real email instead of `your.email@example.com`
-
-Here’s the corrected version:
-
----
-
 ## 👋 Hi, I’m Jaden Lobo
 
 🎓 **2nd Year IT Engineering Student**
