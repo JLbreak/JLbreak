@@ -1,3 +1,13 @@
+Your README looks good 👍
+Just fix these **small mistakes** (your links are correct, only the display text is wrong):
+
+✅ GitHub link text should show your real username
+✅ Email should show your real email instead of `your.email@example.com`
+
+Here’s the corrected version:
+
+---
+
 ## 👋 Hi, I’m Jaden Lobo
 
 🎓 **2nd Year IT Engineering Student**
@@ -68,25 +78,15 @@ I enjoy working on creative ideas and improving step-by-step.
 
 ## 📫 Connect With Me
 
-* **GitHub:** [https://github.com/your-username](https://github.com/JLbreak)
-* **LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jadenlobo)
-* **Email:** [your.email@example.com](mailto:jadenjohnlobo@gmail.com)
+* **GitHub:** [https://github.com/JLbreak](https://github.com/JLbreak)
+* **LinkedIn:** [https://linkedin.com/in/jadenlobo](https://www.linkedin.com/in/jadenlobo)
+* **Email:** [jadenjohnlobo@gmail.com](mailto:jadenjohnlobo@gmail.com)
 
 ---
 
 ⭐ **Check out my repositories and feel free to connect!**
 
-<!--
-**JLbreak/JLbreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+If you want, I can also add a **GitHub stats section** (languages + streak) without making it look messy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
